@@ -1,0 +1,21 @@
+id: du-cerceau-prints
+title: Du Cerceau grotesque prints
+summary: Grotesque panels with candelabra, canopies, satyrs, griffins, garlands and framed scenes etched by Jacques Androuet Du Cerceau between 1550 and 1566 (the "Livre de Grotesques" and "Petites Grotesques"), from five sheets in the Metropolitan Museum of Art, grouped by sheet.
+kind: historical
+author: adrian729
+maintainer: https://github.com/adrian729/ducktape-assets/issues
+license:
+  artwork: CC0-1.0
+  notes: Extracted from Metropolitan Museum of Art Open Access (CC0) images; see SOURCES.md.
+period: "1550–1566"
+region: Orléans and Paris, France
+style: Renaissance grotesque etching
+origin:
+  institution: Metropolitan Museum of Art
+  object_identifier: "49.95.321, 21.10.1(18), (30), (31), 23.34.2(28)"
+  record_url: https://www.metmuseum.org/art/collection/search/338721
+tags:
+  - grotesque
+  - etching
+  - candelabrum
+  - renaissance

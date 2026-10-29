@@ -1,0 +1,54 @@
+# descriptive: find it and understand it
+id: framed-rider-vignette
+title: Framed rider on a lion-like beast
+description: >-
+  A small framed vignette cropped from a grotesque panel: a nude figure sits astride a lion-like beast walking to the right, its tail curling up behind the rider's back. Thick, soft dark lines inside a double-ruled rectangle and a diagonally hatched frame band; the background is transparent.
+type: illustration
+categories:
+  - humans
+  - animals
+subjects:
+  - rider
+  - human
+  - creature
+  - frame
+colors:
+  - black
+  - gray
+  - brown
+facing: right
+composition: framed-scene
+
+# structural: how it is organised and related
+group: 21-10-1-31
+render:
+  image: {}
+related:
+  - { asset: du-cerceau-prints/grotesque-architecture-with-bird-canopies, role: variant }
+  - { asset: du-cerceau-prints/framed-reclining-figure-on-curled-tail, role: companion }
+usage_notes:
+  - Cropped from the middle-left framed scene of grotesque-architecture-with-bird-canopies; framed-reclining-figure-with-round-shield is its counterpart on the other side.
+  - Small and coarse; keep it at or below the master width.
+display_width:
+  - 160
+  - 320
+
+# administrative: manage, access, preserve
+status: approved
+review: done
+created: 2026-10-28
+quality: Low-resolution crop with a soft line; the hatched frame band is clipped at the top and bottom edges.
+master: master.png
+provenance:
+  method: native-ink-extraction
+  institution: Metropolitan Museum of Art
+  object_title: Grotesque Panel
+  object_identifier: 21.10.1(31)
+  date: "1550"
+  artist: Jacques Androuet Du Cerceau
+  record_url: https://www.metmuseum.org/art/collection/search/387622
+  image_url: https://images.metmuseum.org/CRDImages/dp/original/DP213858.jpg
+  image_rights: CC0-1.0
+  rights_url: https://www.metmuseum.org/policies/image-resources
+  source_sha256: 54c6b3852c207f744aa2ee86447b0c751dcd85782331a219b6d401f0a79caa79
+license: null

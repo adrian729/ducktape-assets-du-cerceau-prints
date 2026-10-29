@@ -1,0 +1,68 @@
+# descriptive: find it and understand it
+id: grotesque-candelabrum-with-horned-hybrids
+title: Grotesque candelabrum with trophies, a boat and horned hybrids
+description: >-
+  A tall upright panel in a ruled border, a faint impression. Two winged genii read books at the top corners of a rod hung with trophies of arms and tablets; an armour trophy stands above a crescent boat with ram-head prows carrying two nude figures. A winged woman holding two long trumpets is flanked by rearing horses on cups raised by reclining nudes; below her a crested term lifts two cornucopias between two horned, bearded, horse-bodied hybrids. A frieze of a triumph with elephants, a winged mask and two dragons held by nude figures close the base. Pale warm gray ink; transparent background.
+type: ornament
+categories:
+  - fantasy
+  - hybrids
+  - humans
+  - animals
+  - music
+  - scrollwork
+subjects:
+  - putto
+  - book
+  - trophy
+  - helmet
+  - shield
+  - weapon
+  - horse
+  - trumpet
+  - wings
+  - woman
+  - cornucopia
+  - mask
+  - frieze
+  - elephant
+  - dragon
+  - candelabrum
+  - scroll
+colors:
+  - gray
+  - brown
+  - black
+facing: viewer
+composition: single-ornament
+
+# structural: how it is organised and related
+group: 21-10-1-18
+render:
+  image: {}
+usage_notes:
+  - Tall panel (about 2 to 3) with its thin ruled plate border; place it standing.
+  - Single-colour ink with its density in the alpha channel; the impression is pale, so it needs a light ground or a darkening filter.
+display_width:
+  - 400
+  - 800
+
+# administrative: manage, access, preserve
+status: approved
+review: done
+created: 2026-10-28
+quality: A faint, worn impression; the ink is pale and lines break up, especially in the lower half.
+master: master.png
+provenance:
+  method: native-ink-extraction
+  institution: Metropolitan Museum of Art
+  object_title: Panel from "Petites Grotesques"
+  object_identifier: 21.10.1(18)
+  date: "1550"
+  artist: Jacques Androuet Du Cerceau
+  record_url: https://www.metmuseum.org/art/collection/search/387623
+  image_url: https://images.metmuseum.org/CRDImages/dp/original/DP213856.jpg
+  image_rights: CC0-1.0
+  rights_url: https://www.metmuseum.org/policies/image-resources
+  source_sha256: 00652f9a018333c138582aa1e308c4b5f5ef73715531f2f91d2857fc5bbef0f6
+license: null

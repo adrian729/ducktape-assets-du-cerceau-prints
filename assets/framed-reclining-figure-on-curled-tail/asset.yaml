@@ -1,0 +1,53 @@
+# descriptive: find it and understand it
+id: framed-reclining-figure-on-curled-tail
+title: Framed reclining figure over a curled tail
+description: >-
+  A small framed vignette cropped from a grotesque panel: a nude figure reclines to the left, propped on one elbow with the head at the left, its legs stretched over a creature whose tail curls up at the right. Thick, soft dark lines inside a double-ruled rectangle and a diagonally hatched frame band; the background is transparent.
+type: illustration
+categories:
+  - humans
+  - animals
+subjects:
+  - human
+  - creature
+  - frame
+colors:
+  - black
+  - gray
+  - brown
+facing: left
+composition: framed-scene
+
+# structural: how it is organised and related
+group: 21-10-1-31
+render:
+  image: {}
+related:
+  - { asset: du-cerceau-prints/grotesque-architecture-with-bird-canopies, role: variant }
+  - { asset: du-cerceau-prints/framed-rider-vignette, role: companion }
+usage_notes:
+  - Cropped from the middle-right framed scene of grotesque-architecture-with-bird-canopies; framed-mounted-figure-and-attendant-vignette is its counterpart on the other side.
+  - Small and coarse; keep it at or below the master width.
+display_width:
+  - 160
+  - 320
+
+# administrative: manage, access, preserve
+status: approved
+review: done
+created: 2026-10-28
+quality: Low-resolution crop with a soft line; the hatched frame band is clipped along the bottom edge.
+master: master.png
+provenance:
+  method: native-ink-extraction
+  institution: Metropolitan Museum of Art
+  object_title: Grotesque Panel
+  object_identifier: 21.10.1(31)
+  date: "1550"
+  artist: Jacques Androuet Du Cerceau
+  record_url: https://www.metmuseum.org/art/collection/search/387622
+  image_url: https://images.metmuseum.org/CRDImages/dp/original/DP213858.jpg
+  image_rights: CC0-1.0
+  rights_url: https://www.metmuseum.org/policies/image-resources
+  source_sha256: 54c6b3852c207f744aa2ee86447b0c751dcd85782331a219b6d401f0a79caa79
+license: null

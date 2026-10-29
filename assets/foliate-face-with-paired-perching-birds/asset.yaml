@@ -1,0 +1,58 @@
+# descriptive: find it and understand it
+id: foliate-face-with-paired-perching-birds
+title: Feathered mask between two perched birds
+description: >-
+  A wide panel inside a ruled border. At the centre a mask with a feathered crown hangs from a knotted scroll bracket, a bead chain swagging below it to a small foliate drop; a lily-like flower rises from a volute on either side and a moth hovers beside each cheek. Two fringed pagoda canopies hang from wavy cords at the sides. On low plinths at the lower corners sit two plump birds seen from behind, heads turned inward, a cloth draped over each perch. Single dark gray ink with hatched shading; the background is transparent.
+type: ornament
+categories:
+  - fantasy
+  - animals
+  - floral
+  - scrollwork
+subjects:
+  - mask
+  - face
+  - bird
+  - canopy
+  - flower
+  - butterfly
+  - cord
+  - drapery
+  - scroll
+colors:
+  - black
+  - gray
+facing: viewer
+composition: single-ornament
+
+# structural: how it is organised and related
+group: 49-95-321
+render:
+  image: {}
+related:
+  - { asset: du-cerceau-prints/grotesque-canopy-with-suspended-miniature, role: companion }
+usage_notes:
+  - Wide strip-like panel (about 2 to 1) with its thin ruled plate border; it does not repeat.
+  - Single-colour ink with its density in the alpha channel; place on any light ground or use as a mask.
+display_width:
+  - 300
+  - 600
+
+# administrative: manage, access, preserve
+status: approved
+review: done
+created: 2026-10-28
+quality: The top rule and the hatching beside it are broken by wear in the original impression.
+master: master.png
+provenance:
+  method: native-ink-extraction
+  institution: Metropolitan Museum of Art
+  object_title: Grotesque Ornament Panel, from "Livre de Grotesques..."
+  object_identifier: 49.95.321
+  date: "1566"
+  artist: Jacques Androuet Du Cerceau
+  record_url: https://www.metmuseum.org/art/collection/search/338721
+  image_rights: CC0-1.0
+  rights_url: https://www.metmuseum.org/policies/image-resources
+  source_sha256: 1e12434dbdf4463c553345d331ce835e60ce7e1e9c82cfb1971e7ab9438e9377
+license: null

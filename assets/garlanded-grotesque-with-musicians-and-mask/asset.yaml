@@ -1,0 +1,67 @@
+# descriptive: find it and understand it
+id: garlanded-grotesque-with-musicians-and-mask
+title: Grotesque with eagles, musicians and a bearded mask
+description: >-
+  A tall upright panel in a thin ruled border. Two eagles with spread wings hold bead garlands at the top corners beside a winged female half-figure, hatched tablets hanging below. Bearded foliate scrolls carry a horned satyr with a pipe and a man playing a lyre. A bat-winged, goat-headed creature spreads over a grinning bearded mask above a frieze of tiny figures. Two cranes fly in over a swag to an oval cartouche; two goat-legged satyrs blow pipes on a pedestal with a dark niche, between crossed instruments, torches, urns and two sphinxes. Warm dark gray ink; transparent background.
+type: ornament
+categories:
+  - fantasy
+  - hybrids
+  - humans
+  - animals
+  - music
+  - scrollwork
+subjects:
+  - eagle
+  - bird
+  - mask
+  - satyr
+  - musician
+  - pipe
+  - lyre
+  - garland
+  - cartouche
+  - frieze
+  - sphinx
+  - child
+  - torch
+  - urn
+  - wings
+  - scroll
+colors:
+  - black
+  - gray
+  - brown
+facing: viewer
+composition: single-ornament
+
+# structural: how it is organised and related
+group: 23-34-2-28
+render:
+  image: {}
+usage_notes:
+  - Tall panel (about 2 to 3) with its thin ruled plate border; place it standing.
+  - Single-colour ink with its density in the alpha channel; place on any light ground or use as a mask.
+display_width:
+  - 400
+  - 800
+
+# administrative: manage, access, preserve
+status: approved
+review: done
+created: 2026-10-28
+quality: Smudges and a scratched patch at the centre of the impression; the top rule touches the top edge of the master.
+master: master.png
+provenance:
+  method: native-ink-extraction
+  institution: Metropolitan Museum of Art
+  object_title: Grotesque Panel
+  object_identifier: 23.34.2(28)
+  date: "1562"
+  artist: Jacques Androuet Du Cerceau
+  record_url: https://www.metmuseum.org/art/collection/search/387675
+  image_url: https://images.metmuseum.org/CRDImages/dp/original/DP213859.jpg
+  image_rights: CC0-1.0
+  rights_url: https://www.metmuseum.org/policies/image-resources
+  source_sha256: e74b911019cd57d483a7d342aae79e8dc14c8397e4653a8224ef69b36631370f
+license: null

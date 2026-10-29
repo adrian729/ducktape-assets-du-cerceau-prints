@@ -1,0 +1,57 @@
+# descriptive: find it and understand it
+id: arched-canopy-with-two-hanging-cages
+title: Arched canopy with two hanging cages
+description: >-
+  A wide panel of thin architecture inside a ruled border. A round arch on a stepped entablature carries three vases; under it hangs a long fringed drapery with pendant drops, flanked by two slender female terms whose bodies taper into tassels, with two more terms at the outer edges. On each side a domed cage with a fringed valance hangs from the cornice, enclosing a vase that gives off a twist of smoke, above a half-round base. Foliate scrolls with lily flowers and spiky tufts sit on the entablature; bead chains with tassels hang below. Single dark gray ink; the background is transparent.
+type: ornament
+categories:
+  - fantasy
+  - floral
+  - scrollwork
+subjects:
+  - canopy
+  - cage
+  - vase
+  - smoke
+  - drapery
+  - tassel
+  - woman
+  - scroll
+  - flower
+  - architecture
+colors:
+  - black
+  - gray
+facing: none
+composition: single-ornament
+
+# structural: how it is organised and related
+group: 49-95-321
+render:
+  image: {}
+related:
+  - { asset: du-cerceau-prints/grotesque-with-paired-hybrids-and-scene, role: companion }
+usage_notes:
+  - Wide panel (about 7 to 5) with its thin ruled plate border; the two cages hold smoking vases, not birds.
+  - Single-colour ink with its density in the alpha channel; place on any light ground or use as a mask.
+display_width:
+  - 400
+  - 800
+
+# administrative: manage, access, preserve
+status: approved
+review: done
+created: 2026-10-28
+master: master.png
+provenance:
+  method: native-ink-extraction
+  institution: Metropolitan Museum of Art
+  object_title: Grotesque Ornament Panel, from "Livre de Grotesques..."
+  object_identifier: 49.95.321
+  date: "1566"
+  artist: Jacques Androuet Du Cerceau
+  record_url: https://www.metmuseum.org/art/collection/search/338721
+  image_rights: CC0-1.0
+  rights_url: https://www.metmuseum.org/policies/image-resources
+  source_sha256: 1e12434dbdf4463c553345d331ce835e60ce7e1e9c82cfb1971e7ab9438e9377
+license: null
