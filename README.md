@@ -3,7 +3,7 @@
 
 Grotesque panels with candelabra, canopies, satyrs, griffins, garlands and framed scenes etched by Jacques Androuet Du Cerceau between 1550 and 1566 (the "Livre de Grotesques" and "Petites Grotesques"), from five sheets in the Metropolitan Museum of Art, grouped by sheet.
 
-Part of [Ducktape Assets](https://github.com/adrian729/ducktape-assets). Set id `du-cerceau-prints`, historical, 16 assets.
+Part of [Ducktape Assets](https://github.com/adrian729/ducktape-assets). Set id `du-cerceau-prints`, historical, 16 assets, version 1.0.0.
 
 ## Licence and attribution
 
@@ -13,10 +13,10 @@ Author: adrian729. Maintainer: https://github.com/adrian729/ducktape-assets/issu
 
 ## Use one asset
 
-No version is published yet. Once it is, pin the exact version (never `@latest`); the URL scheme is:
+Pin the exact version (never `@latest`). For `du-cerceau-prints/arched-canopy-with-two-hanging-cages`:
 
-```
-https://cdn.jsdelivr.net/npm/@ranx729/ducktape-assets-du-cerceau-prints@<version>/webp/<asset-id>-<width>.webp
+```html
+<img src="https://cdn.jsdelivr.net/npm/@ranx729/ducktape-assets-du-cerceau-prints@1.0.0/webp/arched-canopy-with-two-hanging-cages-512.webp" alt="" loading="lazy">
 ```
 
 Package `@ranx729/ducktape-assets-du-cerceau-prints`; every file, width and format is listed in its `manifest.json`. Masters live in git under `assets/<id>/` and in `@ranx729/ducktape-assets-du-cerceau-prints-masters`; never put a master on a page.
